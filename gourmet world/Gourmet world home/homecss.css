@@ -1,0 +1,162 @@
+
+@charset "UTF-8";
+  /*此部分是top部分*/
+  ---------------------------------------------
+  #top{
+    border: 1px solid ;
+    background-color: gray;
+    height: 75px;
+  }
+  #topleft{
+    width:500px;
+    border: 1px solid;
+    background-color: red;
+    float: left;
+  }
+  #topright{
+    border: 1px solid;
+    background-color: yellow;
+    width: 500px;
+    float: right;
+  }
+  #top2{
+    width:990px;
+    height:115px;
+    clear:both;
+    margin:0 auto; /*div水平居中*/
+    position:relative;
+    top:20px;
+    border: 1px solid;
+  }
+  /*此部分是轮播图部分*/
+  ---------------------------------------------
+  #Broadcast{
+    border: 1px solid;
+    width: 990px;
+    height: 360px;
+    margin:0 auto;
+    margin-top: 30px;
+  }
+  #BroadcastLeft{
+    width: 220px;
+    height: 360px;
+    border:1px solid;
+    float: left;
+  }
+  #Broadcast2{
+    border: 1px solid;
+    width: 990px;
+    height: 120px;
+    margin:0 auto;
+    margin-top: 30px;
+  }
+  /*此部分是健康食疗部分*/
+  ---------------------------------------------
+  #body2{
+    width: 990px;
+    height: 386px;
+    border: 1px solid red;
+    margin:0 auto;
+    margin-top: 30px;
+  }
+  #Healthy{
+    width: 310px;
+    height: 380px;
+    border: 1px solid;
+    margin-left:10px;
+    float: left;
+  }
+  #Bake{
+    width: 310px;
+    height: 380px;
+    border: 1px solid;
+    float: left;
+    position: relative;
+    left: 20px;
+  }
+  #Recommend{
+    width: 310px;
+    height: 380px;
+    border: 1px solid;
+    float: left;
+    position: relative;
+    left: 40px;
+  }
+  /*此部分是新秀菜谱部分*/
+  ---------------------------------------------
+  #Menu{
+    width: 990px;
+    height: 600px;
+    border: 1px solid red;
+    margin:0 auto;
+    margin-top: 30px;
+  }
+  #MenuTop{
+    width: 990px;
+    height: 37px;
+    border: 1px solid red;
+  }
+  #MenuBody{
+    width: 990px;
+    height: 544px;
+    border: 1px solid red;
+    margin-top: 10px;
+  }
+  /*此部分是时令食材部分*/
+  ---------------------------------------------
+  #Food{
+    width: 990px;
+    height: 600px;
+    border: 1px solid ;
+    margin:0 auto;
+    margin-top: 30px;
+  }
+  #FoodTop{
+    width: 990px;
+    height: 37px;
+    border: 1px solid ;
+  }
+  #FoodBody{
+    width: 990px;
+    height: 544px;
+    border: 1px solid ;
+    margin-top: 10px;
+  }
+  /*此部分是底部链接部分*/
+  ---------------------------------------------
+  #bottom{
+    width: 990px;
+    height: 160px;
+    border: 1px solid red;
+    margin:0 auto;
+    margin-top: 30px;
+  }
+  /*此部分是回到顶部部分*/
+  ---------------------------------------------
+  #fromtop{
+    width: 40px;
+    height: 40px;
+    background-size: 40px 40px;
+    float: right;
+    position: fixed;
+    left: 1150px;
+    top: 500px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
